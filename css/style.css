@@ -1432,6 +1432,22 @@ div[style*="chrome-extension://gofhjkjmkpinhpoiabjplobcaignabnl"] {
 .mobile-view .widget-map iframe {
 	max-height: 300px;
 }
+#videoBG {
+    position:fixed;
+    z-index: -1;
+}
+@media (min-aspect-ratio: 16/9) {
+    #videoBG {
+        width:100%;
+        height: auto;
+    }
+}
+@media (max-aspect-ratio: 16/9) {
+    #videoBG { 
+        width:auto;
+        height: 100%;
+    }
+}
 
 /* Recaptcha */
 .mobile-view .recaptchatable .recaptcha_image_cell {
