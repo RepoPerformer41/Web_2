@@ -65,7 +65,7 @@
 			padding: 6px 10px 7px 10px;
 		}
 
-		#navigation-2ce9ddad-1289-3cb6-8a98-f070e28bea49 > li.normal > a { color: #000000;}
+		#navigation-2ce9ddad-1289-3cb6-8a98-f070e28bea49 > li.normal > a { color: #ffffff;}
 		#navigation-2ce9ddad-1289-3cb6-8a98-f070e28bea49 > li.normal > a { background-color: transparent; } #navigation-2ce9ddad-1289-3cb6-8a98-f070e28bea49 > li.normal > a { background-image: none; }
 		#navigation-2ce9ddad-1289-3cb6-8a98-f070e28bea49 li.selected > a, #navigation-2ce9ddad-1289-3cb6-8a98-f070e28bea49 li.childselected > a { color: #000000; }
 		#navigation-2ce9ddad-1289-3cb6-8a98-f070e28bea49 ul > li.normal > a { color: #000000; }#navigation-2ce9ddad-1289-3cb6-8a98-f070e28bea49 ul > li.normal > a { background-image: none; }
@@ -74,5 +74,5 @@
 		#navigation-2ce9ddad-1289-3cb6-8a98-f070e28bea49 li.normal:hover > a { color: #000000; }
 		#navigation-2ce9ddad-1289-3cb6-8a98-f070e28bea49 li.normal:hover > a { background-color: #FFFFFF; } #navigation-2ce9ddad-1289-3cb6-8a98-f070e28bea49 li.selected > a, #navigation-2ce9ddad-1289-3cb6-8a98-f070e28bea49 li.childselected > a, #navigation-2ce9ddad-1289-3cb6-8a98-f070e28bea49 li.normal:hover > a { background-image: none; }
 		.mobile-view #navigation-2ce9ddad-1289-3cb6-8a98-f070e28bea49 li.selected > a,
-		.mobile-view #navigation-2ce9ddad-1289-3cb6-8a98-f070e28bea49 li.childselected > a { color: #000000; }.mobile-view #navigation-2ce9ddad-1289-3cb6-8a98-f070e28bea49 li.selected > a,
+		.mobile-view #navigation-2ce9ddad-1289-3cb6-8a98-f070e28bea49 li.childselected > a { color: #0000ff; }.mobile-view #navigation-2ce9ddad-1289-3cb6-8a98-f070e28bea49 li.selected > a,
 		.mobile-view #navigation-2ce9ddad-1289-3cb6-8a98-f070e28bea49 li.childselected > a { background-color: transparent; }.mobile-view #navigation-2ce9ddad-1289-3cb6-8a98-f070e28bea49 li:hover > a { color: #000000; }.mobile-view #navigation-2ce9ddad-1289-3cb6-8a98-f070e28bea49 li:hover > a { background-color: transparent; }.mobile-view #navigation-2ce9ddad-1289-3cb6-8a98-f070e28bea49 ul > li > a { color: #000000; }.mobile-view #navigation-2ce9ddad-1289-3cb6-8a98-f070e28bea49 ul > li > a { background-color: transparent; }

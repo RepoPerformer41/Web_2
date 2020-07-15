@@ -1483,8 +1483,8 @@ div[style*="chrome-extension://gofhjkjmkpinhpoiabjplobcaignabnl"] {
 	padding: 5px 0 20px;
 	text-decoration: underline;
 	cursor: pointer;
-	background-color: #fff;
-	color: #555;
+	background-color: #0000ff;
+	color: #ffff00;
 }
 
 		.pageContentText {font-family: Dosis, sans-serif ;font-size: 12px ;font-weight: normal;font-style: normal;}
